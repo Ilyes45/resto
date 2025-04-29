@@ -1,0 +1,64 @@
+body{
+    background-color: bisque;
+}
+.nav-bar{
+    background-color: rgb(162, 162, 153) !important;
+}
+.liste-bar{
+    margin-left: 70%;
+}
+.hero{
+    margin: 5% 25% !important;
+    width: 700px;
+}
+.hero h5{
+    color: black;
+    font-size: 40px;
+    margin-top: 30%;
+    margin-left: 30%;
+}
+.hero button{
+    margin-left: 50%;
+}
+.card-img{
+   
+    width: 700px !important;
+}
+.plats-froid{
+    
+    
+    margin: 2% ;
+    
+}
+.plats-froid img{
+    height: 40% !important;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 2%;
+    
+}
+.about{
+    margin: 2% 20%;
+}
+.about img{
+    width: 400px;
+}
+.contact{
+    margin: 10%;
+    width: 900px;
+}
+
+.Plats-Principaux{
+    margin: 2% !important;
+}
+.dessert{
+    
+  
+    margin: 2% ;
+    
+}
+.dessert img{
+    height: 40% !important;
+}
