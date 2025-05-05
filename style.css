@@ -48,6 +48,7 @@ h1{
 .contact{
     margin: 10%;
     width: 900px;
+    margin-left: 15%;
 }
 
 .Plats-Principaux{
@@ -57,8 +58,35 @@ h1{
     
   
     margin: 2% ;
+
     
 }
 .dessert img{
     height: 40% !important;
 }
+.footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 1.2rem;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #1da1f2; /* couleur personnalisée au survol */
+  }
+  
